@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# DVC
+.dvc/cache
+.dvc/tmp
+.dvc/tmp/**
